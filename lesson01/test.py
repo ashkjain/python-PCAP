@@ -4,5 +4,3 @@ myStr = 'hello'
 
 print(type(myInt))
 print(type(myStr))
-
-# print; print
